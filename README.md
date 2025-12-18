@@ -85,6 +85,14 @@ endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+ <img width="737" height="404" alt="image" src="https://github.com/user-attachments/assets/e1ab74c4-d114-4461-900b-66f11c5e647f" />
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+ <img width="1280" height="761" alt="image" src="https://github.com/user-attachments/assets/410d5b7e-dbda-4e5b-b916-aa4300357763" />
+
+
 **RESULTS**
+
+ Thus the JK flipflop is implemented and verified.
